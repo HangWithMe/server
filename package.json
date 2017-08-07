@@ -1,0 +1,19 @@
+{
+  "name": "hangwithme-server",
+  "version": "1.0.0",
+  "description": "Server that powers HangWithMe",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HangWithMe/server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HangWithMe/server/issues"
+  },
+  "homepage": "https://github.com/HangWithMe/server#readme"
+}
